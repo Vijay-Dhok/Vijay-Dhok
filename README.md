@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Dhok</h1>
-<h3 align="center">Aspiring data analyst proficient in SQL ,Power BI ,Excel.</h3>
+<h3 align="center">Aspiring data analyst proficient in SQL ,python,Power BI ,Excel.</h3>
 
 - 🌱 I’m currently learning **Advance SQL topics ,Power BI ,Python ,excel**
 
