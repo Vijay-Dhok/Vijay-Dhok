@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I am a Mechanical Engineer with data analytic skills.**
 - <h3 align="center">Udemy Certified "Microsoft Power BI Desktop for Business Intelligence".</h3>
-- <h3 align="center">🥇 **HackerRank SQL – 5★ Gold Badge</h3>
+- <h3 align="center">🥇 HackerRank SQL – 5★ Gold Badge</h3>
 <h3 align="center">Certified in SQL (Basic and Intermediate) by HackerRank </h3>
 
 <h3 align="left">Connect with me:</h3>
