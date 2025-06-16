@@ -14,15 +14,15 @@
       </ul>
     </td>
 
-  
-  </tr>
-</table>
-
- <!-- Right side: GIF -->
-    <td valign="top" width="30%">
+   <td valign="top" width="30%">
    
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker typing animation" />
     </td>
+  </tr>
+</table>
+
+
+   
 
 - <h3 align="center">Udemy Certified "Microsoft Power BI Desktop for Business Intelligence".</h3>
 - <h3 align="center">🥇 HackerRank SQL – 5★ Gold Badge</h3>
