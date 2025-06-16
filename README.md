@@ -1,12 +1,20 @@
-<h1 align="center">Hi 👋, I'm Vijay Dhok</h1>
-<h3 align="center">Aspiring data analyst proficient in SQL ,python,Power BI ,Excel.</h3>
+<h1 align="center">Hi 👋, I'm Vijay</h1>
+<h3 align="center">A passionate engineer</h3>
+🔭 I’m currently working on **advance excel, Power BI for daily reporting.**
 
-- 🌱 I’m currently learning **Advance SQL topics ,Power BI ,Python ,excel**
+- 🌱 I’m currently learning **SAP MM**
 
-- ⚡ Fun fact **I am a Mechanical Engineer with data analytic skills.**
+- 🤝 I’m looking for help with **job opportunity at automobile as well as IT sector.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Vijay-Dhok](https://github.com/Vijay-Dhok)
+
+- 📫 How to reach me **vijdhok9723@gmail.com**
+
+- ⚡ Fun fact **I am a national level foot volley athlete.**
 - <h3 align="center">Udemy Certified "Microsoft Power BI Desktop for Business Intelligence".</h3>
 - <h3 align="center">🥇 HackerRank SQL – 5★ Gold Badge</h3>
 <h3 align="center">Certified in SQL (Basic and Intermediate) by HackerRank </h3>
+![GIF Description](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhxeTd0d3p6YjdoNW44cnQwczJzaW9sNWJub2dkdnpkY3V6NDVoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gIjDNYiuNe0Ug/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
