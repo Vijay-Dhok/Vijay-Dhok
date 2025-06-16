@@ -29,8 +29,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijay-dhok&show_icons=true&locale=en&layout=compact" alt="vijay-dhok" /></p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Loading+Snake+Game...;Initializing+GitHub+Grid...;Ready+to+Play!+🎮" alt="Typing SVG" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake game animation" />
 </p>
+
 
 
 
