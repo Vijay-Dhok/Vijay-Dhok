@@ -1,4 +1,3 @@
-
 <table>
   <tr>
     <!-- Left side: Your info -->
@@ -6,7 +5,6 @@
       <h1 align="left">Hi 👋, I'm Vijay</h1>
       <h3 align="left">A passionate engineer</h3>
       <ul>
-       
         <li>🔭 I’m currently working on <strong>advanced Excel, Power BI for daily reporting.</strong></li>
         <li>🌱 I’m currently learning <strong>SAP MM</strong></li>
         <li>🤝 I’m looking for help with <strong>job opportunities in the automobile as well as IT sector.</strong></li>
