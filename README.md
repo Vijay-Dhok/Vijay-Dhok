@@ -3,6 +3,9 @@
 🔭 I’m currently working on **advance excel, Power BI for daily reporting.**
 
 - 🌱 I’m currently learning **SAP MM**
+- <p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker typing animation" />
+</p>
 
 - 🤝 I’m looking for help with **job opportunity at automobile as well as IT sector.**
 
@@ -14,14 +17,9 @@
 - <h3 align="center">Udemy Certified "Microsoft Power BI Desktop for Business Intelligence".</h3>
 - <h3 align="center">🥇 HackerRank SQL – 5★ Gold Badge</h3>
 <h3 align="center">Certified in SQL (Basic and Intermediate) by HackerRank </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijay-dhok&show_icons=true&locale=en&layout=compact" alt="vijay-dhok" /></p>
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake game animation" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker typing animation" />
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
