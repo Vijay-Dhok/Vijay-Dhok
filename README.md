@@ -14,9 +14,9 @@
       </ul>
     </td>
 
-   <td valign="top" width="30%">
+   <td valign="top" width="20%">
    
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker typing animation" />
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Hacker typing animation" />
     </td>
   </tr>
 </table>
