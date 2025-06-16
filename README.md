@@ -1,3 +1,27 @@
+<table>
+  <tr>
+    <!-- Left side: Your info -->
+    <td valign="top" width="70%">
+      <h1 align="left">Hi 👋, I'm Vijay</h1>
+      <h3 align="left">A passionate engineer</h3>
+      <ul>
+        <li>🔭 I’m currently working on <strong>advanced Excel, Power BI for daily reporting.</strong></li>
+        <li>🌱 I’m currently learning <strong>SAP MM</strong></li>
+        <li>🤝 I’m looking for help with <strong>job opportunities in the automobile as well as IT sector.</strong></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://github.com/Vijay-Dhok">github.com/Vijay-Dhok</a></li>
+        <li>📫 Reach me at: <strong>vijdhok9723@gmail.com</strong></li>
+        <li>⚡ Fun fact: <strong>I am a national level foot volley athlete.</strong></li>
+      </ul>
+    </td>
+
+    <!-- Right side: GIF -->
+    <td valign="top" width="30%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Typing animation" />
+    </td>
+  </tr>
+</table>
+
+
 <h1 align="center">Hi 👋, I'm Vijay</h1>
 <h3 align="center">A passionate engineer</h3>
 🔭 I’m currently working on **advance excel, Power BI for daily reporting.**
