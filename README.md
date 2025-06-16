@@ -14,29 +14,16 @@
       </ul>
     </td>
 
-    <!-- Right side: GIF -->
+  
+  </tr>
+</table>
+
+ <!-- Right side: GIF -->
     <td valign="top" width="30%">
    
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker typing animation" />
     </td>
-  </tr>
-</table>
 
-
-<h1 align="center">Hi 👋, I'm Vijay</h1>
-<h3 align="center">A passionate engineer</h3>
-🔭 I’m currently working on **advance excel, Power BI for daily reporting.**
-
-- 🌱 I’m currently learning **SAP MM**
-- 
-
-- 🤝 I’m looking for help with **job opportunity at automobile as well as IT sector.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vijay-Dhok](https://github.com/Vijay-Dhok)
-
-- 📫 How to reach me **vijdhok9723@gmail.com**
-
-- ⚡ Fun fact **I am a national level foot volley athlete.**
 - <h3 align="center">Udemy Certified "Microsoft Power BI Desktop for Business Intelligence".</h3>
 - <h3 align="center">🥇 HackerRank SQL – 5★ Gold Badge</h3>
 <h3 align="center">Certified in SQL (Basic and Intermediate) by HackerRank </h3>
