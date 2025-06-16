@@ -1,10 +1,4 @@
-<div style="background-color:#00FFFF; padding:20px; border-radius:10px;">
-  <h2 align="center">Welcome to My GitHub</h2>
-  <p align="center">
-    This section has a light blue background.<br>
-    You can highlight key information or make your profile visually appealing.
-  </p>
-</div>
+
 <table>
   <tr>
     <!-- Left side: Your info -->
