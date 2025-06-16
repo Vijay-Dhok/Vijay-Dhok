@@ -16,7 +16,8 @@
 
     <!-- Right side: GIF -->
     <td valign="top" width="30%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Typing animation" />
+   
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker typing animation" />
     </td>
   </tr>
 </table>
@@ -27,9 +28,7 @@
 🔭 I’m currently working on **advance excel, Power BI for daily reporting.**
 
 - 🌱 I’m currently learning **SAP MM**
-- <p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker typing animation" />
-</p>
+- 
 
 - 🤝 I’m looking for help with **job opportunity at automobile as well as IT sector.**
 
